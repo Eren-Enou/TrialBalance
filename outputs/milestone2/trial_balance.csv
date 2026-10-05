@@ -1,0 +1,8 @@
+account_id,account_name,debit_balance_minor,credit_balance_minor,debit_balance_usd,credit_balance_usd
+1000,Checking,492500,0,4925.00,0.00
+3000,Owner capital,0,500000,0.00,5000.00
+3100,Owner drawings,20000,0,200.00,0.00
+4000,Service revenue,0,80000,0.00,800.00
+5000,Rent expense,60000,0,600.00,0.00
+5100,Office expense,7500,0,75.00,0.00
+TOTAL,Trial balance totals,580000,580000,5800.00,5800.00

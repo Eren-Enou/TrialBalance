@@ -1,0 +1,11 @@
+account_id,account_name,posting_date,entry_id,line_id,memo,debit_minor,credit_minor,debit_usd,credit_usd,running_net_debit_minor,running_balance_usd,balance_side
+1000,Checking,2026-01-01,J001,J001-L1,"Owner contributes $5,000",500000,0,5000.00,0.00,500000,5000.00,debit
+1000,Checking,2026-01-02,J002,J002-L1,Earn and receive $800 for completed services,80000,0,800.00,0.00,580000,5800.00,debit
+1000,Checking,2026-01-03,J003,J003-L2,Pay $600 rent for this period,0,60000,0.00,600.00,520000,5200.00,debit
+1000,Checking,2026-01-04,J004,J004-L2,Pay $75 for office items consumed this period,0,7500,0.00,75.00,512500,5125.00,debit
+1000,Checking,2026-01-05,J005,J005-L2,Owner withdraws $200 for personal use,0,20000,0.00,200.00,492500,4925.00,debit
+3000,Owner capital,2026-01-01,J001,J001-L2,"Owner contributes $5,000",0,500000,0.00,5000.00,-500000,5000.00,credit
+3100,Owner drawings,2026-01-05,J005,J005-L1,Owner withdraws $200 for personal use,20000,0,200.00,0.00,20000,200.00,debit
+4000,Service revenue,2026-01-02,J002,J002-L2,Earn and receive $800 for completed services,0,80000,0.00,800.00,-80000,800.00,credit
+5000,Rent expense,2026-01-03,J003,J003-L1,Pay $600 rent for this period,60000,0,600.00,0.00,60000,600.00,debit
+5100,Office expense,2026-01-04,J004,J004-L1,Pay $75 for office items consumed this period,7500,0,75.00,0.00,7500,75.00,debit

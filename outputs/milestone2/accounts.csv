@@ -1,0 +1,7 @@
+account_id,name,account_type,normal_side
+1000,Checking,asset,debit
+3000,Owner capital,equity,credit
+3100,Owner drawings,equity,debit
+4000,Service revenue,revenue,credit
+5000,Rent expense,expense,debit
+5100,Office expense,expense,debit

@@ -1,0 +1,11 @@
+entry_id,posting_date,status,memo,line_id,line_number,account_id,account_name,debit_minor,credit_minor,debit_usd,credit_usd
+J001,2026-01-01,posted,"Owner contributes $5,000",J001-L1,1,1000,Checking,500000,0,5000.00,0.00
+J001,2026-01-01,posted,"Owner contributes $5,000",J001-L2,2,3000,Owner capital,0,500000,0.00,5000.00
+J002,2026-01-02,posted,Earn and receive $800 for completed services,J002-L1,1,1000,Checking,80000,0,800.00,0.00
+J002,2026-01-02,posted,Earn and receive $800 for completed services,J002-L2,2,4000,Service revenue,0,80000,0.00,800.00
+J003,2026-01-03,posted,Pay $600 rent for this period,J003-L1,1,5000,Rent expense,60000,0,600.00,0.00
+J003,2026-01-03,posted,Pay $600 rent for this period,J003-L2,2,1000,Checking,0,60000,0.00,600.00
+J004,2026-01-04,posted,Pay $75 for office items consumed this period,J004-L1,1,5100,Office expense,7500,0,75.00,0.00
+J004,2026-01-04,posted,Pay $75 for office items consumed this period,J004-L2,2,1000,Checking,0,7500,0.00,75.00
+J005,2026-01-05,posted,Owner withdraws $200 for personal use,J005-L1,1,3100,Owner drawings,20000,0,200.00,0.00
+J005,2026-01-05,posted,Owner withdraws $200 for personal use,J005-L2,2,1000,Checking,0,20000,0.00,200.00
